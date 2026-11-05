@@ -1,0 +1,8 @@
+source_system,source_patient_id,given_name,family_name,dob,sex,phone,email,address,postal_code,national_id
+ClinicA,A-1001,Alice,Example,1985-04-12,F,202-555-0101,alice.example@example.com,10 Demo Street,10001,SYN-0001
+ClinicB,B-2044,Alicia,Example,1985-04-12,F,202-555-0101,alice.example@example.com,10 Demo St,10001,SYN-0001
+ClinicC,C-3302,Alice,Exampel,1985-04-12,F,202-555-0101,alice.example@example.com,10 Demo Street,10001,SYN-0001
+ClinicA,A-1002,Ben,Sample,1972-09-30,M,202-555-0102,ben.sample@example.com,22 Test Avenue,10002,SYN-0002
+ClinicB,B-2045,Ben,Sample,1972-09-30,M,202-555-0102,ben.sample@example.com,22 Test Avenue,10002,SYN-0002
+ClinicA,A-1003,Casey,Demo,not-a-date,X,,casey-at-example,5 Placeholder Road,10003,SYN-0003
+ClinicB,B-2046,Jordan,Test,1990-01-15,F,202-555-0104,jordan.test@example.com,44 Example Boulevard,10004,SYN-0004
